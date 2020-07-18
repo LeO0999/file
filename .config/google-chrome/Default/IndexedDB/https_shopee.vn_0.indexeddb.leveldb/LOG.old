@@ -1,0 +1,5 @@
+2020/07/17-12:36:21.904 61e2 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-12:38:29.997 39ea Level-0 table #5: started
+2020/07/17-12:38:30.003 39ea Level-0 table #5: 110063 bytes OK
+2020/07/17-12:38:30.005 39ea Delete type=0 #3
+2020/07/17-12:38:30.006 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

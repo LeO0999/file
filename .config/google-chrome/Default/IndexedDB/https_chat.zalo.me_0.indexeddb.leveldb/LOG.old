@@ -1,0 +1,15 @@
+2020/07/17-08:55:35.433 112e Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-08:55:35.433 112e Recovering log #94
+2020/07/17-08:55:35.433 112e Reusing old log /home/leo/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000094.log 
+2020/07/17-10:25:53.461 39ea Level-0 table #99: started
+2020/07/17-10:25:53.565 39ea Level-0 table #99: 333613 bytes OK
+2020/07/17-10:25:53.643 39ea Delete type=0 #94
+2020/07/17-10:25:53.644 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/17-10:25:53.644 39ea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x03\x1f\x03\x00\x00\x00\x00\x00\x94\x91@\x00\x03\x00\x00\x00\x00\x00\xf0\xb9@' @ 232210 : 1
+2020/07/17-10:25:53.644 39ea Compacting 1@1 + 1@2 files
+2020/07/17-10:25:53.810 39ea Generated table #100@1: 33838 keys, 1229549 bytes
+2020/07/17-10:25:53.810 39ea Compacted 1@1 + 1@2 files => 1229549 bytes
+2020/07/17-10:25:53.857 39ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/17-10:25:53.858 39ea Delete type=2 #99
+2020/07/17-10:25:53.858 39ea Delete type=2 #96
+2020/07/17-10:25:53.859 39ea Manual compaction at level-1 from '\x00\x09\x03\x1f\x03\x00\x00\x00\x00\x00\x94\x91@\x00\x03\x00\x00\x00\x00\x00\xf0\xb9@' @ 232210 : 1 .. (end); will stop at (end)

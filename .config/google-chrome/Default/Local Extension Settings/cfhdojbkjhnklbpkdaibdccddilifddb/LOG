@@ -1,0 +1,158 @@
+2020/07/17-08:51:00.429 f5d Reusing MANIFEST /home/leo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/07/17-08:51:00.429 f5d Recovering log #349
+2020/07/17-08:51:00.430 f5d Reusing old log /home/leo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000349.log 
+2020/07/17-08:52:03.067 111f Level-0 table #353: started
+2020/07/17-08:52:03.166 111f Level-0 table #353: 5361173 bytes OK
+2020/07/17-08:52:03.169 111f Delete type=0 #349
+2020/07/17-08:52:28.898 111f Level-0 table #355: started
+2020/07/17-08:52:29.005 111f Level-0 table #355: 5360925 bytes OK
+2020/07/17-08:52:29.010 111f Delete type=0 #352
+2020/07/17-08:52:29.012 111f Compacting 4@0 + 2@1 files
+2020/07/17-08:52:29.143 111f Generated table #356@0: 1 keys, 5360678 bytes
+2020/07/17-08:52:29.145 111f Generated table #357@0: 4 keys, 480 bytes
+2020/07/17-08:52:29.145 111f Compacted 4@0 + 2@1 files => 5361158 bytes
+2020/07/17-08:52:29.147 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-08:52:29.147 111f Delete type=2 #346
+2020/07/17-08:52:29.147 111f Delete type=2 #350
+2020/07/17-08:52:29.147 111f Delete type=2 #348
+2020/07/17-08:52:29.147 111f Delete type=2 #345
+2020/07/17-08:52:29.147 111f Delete type=2 #355
+2020/07/17-08:52:29.147 111f Delete type=2 #353
+2020/07/17-08:52:31.039 111f Level-0 table #359: started
+2020/07/17-08:52:31.110 111f Level-0 table #359: 5360847 bytes OK
+2020/07/17-08:52:31.113 111f Delete type=0 #354
+2020/07/17-08:55:47.927 111f Level-0 table #361: started
+2020/07/17-08:55:48.023 111f Level-0 table #361: 5360653 bytes OK
+2020/07/17-08:55:48.026 111f Delete type=0 #358
+2020/07/17-09:52:02.885 111f Level-0 table #363: started
+2020/07/17-09:52:02.952 111f Level-0 table #363: 5360790 bytes OK
+2020/07/17-09:52:02.956 111f Delete type=0 #360
+2020/07/17-09:59:31.375 111f Level-0 table #365: started
+2020/07/17-09:59:31.488 111f Level-0 table #365: 5360900 bytes OK
+2020/07/17-09:59:31.491 111f Delete type=0 #362
+2020/07/17-09:59:31.491 111f Compacting 4@0 + 2@1 files
+2020/07/17-09:59:31.682 111f Generated table #366@0: 1 keys, 5360654 bytes
+2020/07/17-09:59:31.687 111f Generated table #367@0: 4 keys, 480 bytes
+2020/07/17-09:59:31.687 111f Compacted 4@0 + 2@1 files => 5361134 bytes
+2020/07/17-09:59:31.689 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-09:59:31.689 111f Delete type=2 #361
+2020/07/17-09:59:31.689 111f Delete type=2 #365
+2020/07/17-09:59:31.689 111f Delete type=2 #357
+2020/07/17-09:59:31.689 111f Delete type=2 #356
+2020/07/17-09:59:31.689 111f Delete type=2 #359
+2020/07/17-09:59:31.689 111f Delete type=2 #363
+2020/07/17-10:52:03.023 111f Level-0 table #369: started
+2020/07/17-10:52:03.104 111f Level-0 table #369: 5360788 bytes OK
+2020/07/17-10:52:03.106 111f Delete type=0 #364
+2020/07/17-10:52:06.044 111f Level-0 table #371: started
+2020/07/17-10:52:06.181 111f Level-0 table #371: 5360907 bytes OK
+2020/07/17-10:52:06.183 111f Delete type=0 #368
+2020/07/17-10:52:08.197 111f Level-0 table #373: started
+2020/07/17-10:52:08.267 111f Level-0 table #373: 5360855 bytes OK
+2020/07/17-10:52:08.269 111f Delete type=0 #370
+2020/07/17-11:39:00.297 111f Level-0 table #375: started
+2020/07/17-11:39:00.378 111f Level-0 table #375: 5360661 bytes OK
+2020/07/17-11:39:00.380 111f Delete type=0 #372
+2020/07/17-11:39:00.382 111f Compacting 4@0 + 2@1 files
+2020/07/17-11:39:00.520 111f Generated table #376@0: 1 keys, 5360661 bytes
+2020/07/17-11:39:00.523 111f Generated table #377@0: 4 keys, 481 bytes
+2020/07/17-11:39:00.523 111f Compacted 4@0 + 2@1 files => 5361142 bytes
+2020/07/17-11:39:00.525 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-11:39:00.525 111f Delete type=2 #373
+2020/07/17-11:39:00.525 111f Delete type=2 #369
+2020/07/17-11:39:00.525 111f Delete type=2 #375
+2020/07/17-11:39:00.525 111f Delete type=2 #367
+2020/07/17-11:39:00.525 111f Delete type=2 #371
+2020/07/17-11:39:00.525 111f Delete type=2 #366
+2020/07/17-11:52:02.901 111f Level-0 table #379: started
+2020/07/17-11:52:02.971 111f Level-0 table #379: 5360826 bytes OK
+2020/07/17-11:52:02.974 111f Delete type=0 #374
+2020/07/17-11:52:04.404 111f Level-0 table #381: started
+2020/07/17-11:52:04.473 111f Level-0 table #381: 5360905 bytes OK
+2020/07/17-11:52:04.476 111f Delete type=0 #378
+2020/07/17-12:11:53.481 111f Level-0 table #383: started
+2020/07/17-12:11:53.583 111f Level-0 table #383: 5360849 bytes OK
+2020/07/17-12:11:53.586 111f Delete type=0 #380
+2020/07/17-12:52:03.345 111f Level-0 table #385: started
+2020/07/17-12:52:03.437 111f Level-0 table #385: 5360874 bytes OK
+2020/07/17-12:52:03.440 111f Delete type=0 #382
+2020/07/17-12:52:03.442 111f Compacting 4@0 + 2@1 files
+2020/07/17-12:52:03.550 111f Generated table #386@0: 1 keys, 5360657 bytes
+2020/07/17-12:52:03.553 111f Generated table #387@0: 4 keys, 481 bytes
+2020/07/17-12:52:03.553 111f Compacted 4@0 + 2@1 files => 5361138 bytes
+2020/07/17-12:52:03.555 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-12:52:03.555 111f Delete type=2 #376
+2020/07/17-12:52:03.555 111f Delete type=2 #383
+2020/07/17-12:52:03.555 111f Delete type=2 #377
+2020/07/17-12:52:03.555 111f Delete type=2 #385
+2020/07/17-12:52:03.555 111f Delete type=2 #379
+2020/07/17-12:52:03.555 111f Delete type=2 #381
+2020/07/17-12:52:05.225 111f Level-0 table #389: started
+2020/07/17-12:52:05.308 111f Level-0 table #389: 5360905 bytes OK
+2020/07/17-12:52:05.310 111f Delete type=0 #384
+2020/07/17-13:03:21.972 111f Level-0 table #391: started
+2020/07/17-13:03:22.054 111f Level-0 table #391: 5360849 bytes OK
+2020/07/17-13:03:22.057 111f Delete type=0 #388
+2020/07/17-13:52:02.993 111f Level-0 table #393: started
+2020/07/17-13:52:03.063 111f Level-0 table #393: 5362267 bytes OK
+2020/07/17-13:52:03.066 111f Delete type=0 #390
+2020/07/17-14:13:33.132 111f Level-0 table #395: started
+2020/07/17-14:13:33.212 111f Level-0 table #395: 5360906 bytes OK
+2020/07/17-14:13:33.216 111f Delete type=0 #392
+2020/07/17-14:13:33.216 111f Compacting 4@0 + 2@1 files
+2020/07/17-14:13:33.330 111f Generated table #396@0: 1 keys, 5360659 bytes
+2020/07/17-14:13:33.333 111f Generated table #397@0: 4 keys, 482 bytes
+2020/07/17-14:13:33.333 111f Compacted 4@0 + 2@1 files => 5361141 bytes
+2020/07/17-14:13:33.335 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-14:13:33.335 111f Delete type=2 #393
+2020/07/17-14:13:33.335 111f Delete type=2 #386
+2020/07/17-14:13:33.335 111f Delete type=2 #387
+2020/07/17-14:13:33.335 111f Delete type=2 #389
+2020/07/17-14:13:33.335 111f Delete type=2 #391
+2020/07/17-14:13:33.335 111f Delete type=2 #395
+2020/07/17-14:52:02.990 111f Level-0 table #399: started
+2020/07/17-14:52:03.065 111f Level-0 table #399: 5360720 bytes OK
+2020/07/17-14:52:03.068 111f Delete type=0 #394
+2020/07/17-14:52:04.517 111f Level-0 table #401: started
+2020/07/17-14:52:04.586 111f Level-0 table #401: 5360905 bytes OK
+2020/07/17-14:52:04.588 111f Delete type=0 #398
+2020/07/17-15:14:01.611 111f Level-0 table #403: started
+2020/07/17-15:14:01.693 111f Level-0 table #403: 5360850 bytes OK
+2020/07/17-15:14:01.696 111f Delete type=0 #400
+2020/07/17-15:52:02.948 111f Level-0 table #405: started
+2020/07/17-15:52:03.019 111f Level-0 table #405: 5360766 bytes OK
+2020/07/17-15:52:03.022 111f Delete type=0 #402
+2020/07/17-15:52:03.023 111f Compacting 4@0 + 2@1 files
+2020/07/17-15:52:03.108 111f Generated table #406@0: 1 keys, 5360663 bytes
+2020/07/17-15:52:03.110 111f Generated table #407@0: 4 keys, 481 bytes
+2020/07/17-15:52:03.110 111f Compacted 4@0 + 2@1 files => 5361144 bytes
+2020/07/17-15:52:03.112 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-15:52:03.112 111f Delete type=2 #397
+2020/07/17-15:52:03.112 111f Delete type=2 #405
+2020/07/17-15:52:03.112 111f Delete type=2 #403
+2020/07/17-15:52:03.112 111f Delete type=2 #401
+2020/07/17-15:52:03.112 111f Delete type=2 #396
+2020/07/17-15:52:03.112 111f Delete type=2 #399
+2020/07/17-15:52:04.428 111f Level-0 table #409: started
+2020/07/17-15:52:04.497 111f Level-0 table #409: 5360909 bytes OK
+2020/07/17-15:52:04.500 111f Delete type=0 #404
+2020/07/17-15:58:05.394 111f Level-0 table #411: started
+2020/07/17-15:58:05.535 111f Level-0 table #411: 5360859 bytes OK
+2020/07/17-15:58:05.538 111f Delete type=0 #408
+2020/07/17-16:52:03.099 111f Level-0 table #413: started
+2020/07/17-16:52:03.169 111f Level-0 table #413: 5360752 bytes OK
+2020/07/17-16:52:03.173 111f Delete type=0 #410
+2020/07/17-17:05:37.868 111f Level-0 table #415: started
+2020/07/17-17:05:37.939 111f Level-0 table #415: 5361024 bytes OK
+2020/07/17-17:05:37.942 111f Delete type=0 #412
+2020/07/17-17:05:37.942 111f Compacting 4@0 + 2@1 files
+2020/07/17-17:05:38.037 111f Generated table #416@0: 1 keys, 5360659 bytes
+2020/07/17-17:05:38.041 111f Generated table #417@0: 4 keys, 482 bytes
+2020/07/17-17:05:38.041 111f Compacted 4@0 + 2@1 files => 5361141 bytes
+2020/07/17-17:05:38.043 111f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/17-17:05:38.043 111f Delete type=2 #407
+2020/07/17-17:05:38.043 111f Delete type=2 #415
+2020/07/17-17:05:38.043 111f Delete type=2 #413
+2020/07/17-17:05:38.043 111f Delete type=2 #406
+2020/07/17-17:05:38.043 111f Delete type=2 #411
+2020/07/17-17:05:38.043 111f Delete type=2 #409

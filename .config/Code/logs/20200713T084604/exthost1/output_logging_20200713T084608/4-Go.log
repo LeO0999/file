@@ -1,0 +1,1406 @@
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/bai1.go:1: expected 'package', found pac
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/bai1.go:1: expected 'package', found pac
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/bai1.go:3: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/bai1.go:3: expected declaration, found fu
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/bai1.go:3: method has no receiver
+/home/leo/Work/exercise4/bai1.go:3: syntax error: unexpected {, expecting name or (
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/bai1.go:3: expected 'IDENT', found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:4: imported and not used: "fmt"
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:4: "fmt" imported but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:8: syntax error: unexpected newline, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: expected 1 expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:10: expected operand, found '}'
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:10: syntax error: unexpected }, expecting expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:4: imported and not used: "fmt"
+/home/leo/Work/exercise4/main.go:8: undefined: xorm
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: undeclared name: xorm
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:10: syntax error: unexpected }, expecting name or (
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:10: expected selector or type assertion, found '}'
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:4: imported and not used: "fmt"
+/home/leo/Work/exercise4/main.go:8: undefined: xorm
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: undeclared name: xorm
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:10: syntax error: unexpected }, expecting name or (
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:10: expected selector or type assertion, found '}'
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:4: imported and not used: "fmt"
+/home/leo/Work/exercise4/main.go:8: undefined: xorm
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: undeclared name: xorm
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:8: syntax error: unexpected :, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: expected 1 expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:8: syntax error: unexpected :, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: expected 1 expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:8: syntax error: unexpected :, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: expected 1 expression (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:8: syntax error: unexpected :, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: expected 1 expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:9: syntax error: unexpected :, expecting := or = or comma
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:9: expected 1 expression
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:9: expected 1 expression
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:9: syntax error: unexpected :, expecting := or = or comma
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:5: imported and not used: "fmt"
+/home/leo/Work/exercise4/main.go:9: not enough arguments in call to xorm.NewEngine
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:9: too few arguments in call to xorm.NewEngine
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/main.go:4: imported and not used: "xorm.io/xorm"
+/home/leo/Work/exercise4/main.go:5: imported and not used: "fmt"
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:5: "fmt" imported but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:3: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:3: expected declaration, found engine
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:3: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:3: expected declaration, found engine
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: expected declaration, found fu
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: expected 'IDENT', found '{' (and 2 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: method has no receiver
+/home/leo/Work/exercise4/database.go:4: syntax error: unexpected {, expecting name or (
+
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: a redeclared in this block
+/home/leo/Work/exercise4/database.go:7: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:7: expected declaration, found engine
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: a redeclared in this block
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: a redeclared in this block
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: a redeclared in this block
+/home/leo/Work/exercise4/database.go:5: syntax error: unexpected newline, expecting comma or )
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:5: missing ',' before newline in argument list (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:5: syntax error: unexpected newline, expecting comma or )
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:5: missing ',' before newline in argument list (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:5: undefined: xorm
+/home/leo/Work/exercise4/database.go:5: undefined: driverName
+/home/leo/Work/exercise4/database.go:5: undefined: dataSourceName
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:5: undeclared name: xorm
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:9: undefined: driverName
+/home/leo/Work/exercise4/database.go:9: undefined: dataSourceName
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:9: undeclared name: driverName
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:9: undefined: driverName
+/home/leo/Work/exercise4/database.go:9: undefined: dataSourceName
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:9: undeclared name: driverName
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:8: syntax error: unexpected func, expecting name
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:8: expected 'IDENT', found 'func'
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected newline in type declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found newline
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found newline
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected newline in type declaration
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected newline in type declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found newline
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:10: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:10: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:11: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:11: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:11: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:11: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+/home/leo/Work/exercise4/database.go:15: newline in string
+/home/leo/Work/exercise4/database.go:15: syntax error: unexpected newline, expecting comma or )
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 2 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { in type declaration
+/home/leo/Work/exercise4/database.go:8: syntax error: non-declaration statement outside function body
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected type, found '{' (and 1 more errors)
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:6: syntax error: unexpected { after top level declaration
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:6: expected ';', found '{'
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:7: struct field Id should be ID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:15: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:15: engine declared but not used
+/home/leo/Work/exercise4/database.go:15: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:15: engine declared but not used
+/home/leo/Work/exercise4/database.go:15: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:15: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:16: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:16: engine declared but not used
+/home/leo/Work/exercise4/database.go:16: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:15: user redeclared in this block
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:15: user redeclared in this block
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field Id_ should be ID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field Id_name should be IDName
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field Id_name should be IDName
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+/home/leo/Work/exercise4/database.go:23: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:23: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:21: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:21: engine declared but not used
+/home/leo/Work/exercise4/database.go:21: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:21: engine declared but not used
+/home/leo/Work/exercise4/database.go:21: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:21: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: don't use underscores in Go names; struct field User_id should be UserID
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: struct field UserId should be UserID
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: struct field UserId should be UserID
+/home/leo/Work/exercise4/database.go:18: don't use underscores in Go names; struct field Max_point should be MaxPoint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: struct field UserId should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: struct field UserId should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+/home/leo/Work/exercise4/database.go:16: struct field UserId should be UserID
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: imported and not used: "xorm.io/xorm"
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: "xorm.io/xorm" imported but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: imported and not used: "xorm.io/xorm"
+/home/leo/Work/exercise4/main.go:4: undefined: fmt
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:4: undeclared name: fmt
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: imported and not used: "xorm.io/xorm"
+/home/leo/Work/exercise4/main.go:8: fmt.Println evaluated but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/main.go:8: fmt.Println (value of type func(a ...interface{}) (n int, err error)) is not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: imported and not used: "xorm.io/xorm"
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: "xorm.io/xorm" imported but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+/home/leo/Work/exercise4/database.go:4: imported and not used: "xorm.io/xorm"
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:4: "xorm.io/xorm" imported but not used
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:7: struct field tag `xorm created` not compatible with reflect.StructTag.Get: bad syntax for struct tag pair
+/home/leo/Work/exercise4/database.go:8: struct field tag `xorm updated` not compatible with reflect.StructTag.Get: bad syntax for struct tag pair
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-go9wcI36/go-code-check .
+

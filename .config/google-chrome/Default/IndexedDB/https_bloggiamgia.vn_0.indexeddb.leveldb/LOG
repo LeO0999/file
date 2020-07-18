@@ -1,0 +1,5 @@
+2020/07/17-13:36:15.096 6712 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_bloggiamgia.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-13:38:00.895 39ea Level-0 table #5: started
+2020/07/17-13:38:00.897 39ea Level-0 table #5: 6094 bytes OK
+2020/07/17-13:38:00.900 39ea Delete type=0 #3
+2020/07/17-13:38:00.900 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

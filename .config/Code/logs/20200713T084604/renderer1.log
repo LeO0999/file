@@ -1,0 +1,97 @@
+[2020-07-13 10:37:04.509] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:808)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:757)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:434:44)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-13 10:37:06.001] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:808)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:757)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:434:44)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-13 14:22:59.375] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:808)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:757)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:434:44)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-13 14:39:53.245] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:808)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:757)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:434:44)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-13 14:39:55.190] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:808)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:447:757)
+	at new e (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:434:44)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-13 16:37:38.670] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-07-13 17:10:52.821] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177
+[2020-07-13 17:26:42.190] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:114:540)
+    at t.ObjectTreeModel.setCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:113:767)
+    at expand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1106:172)
+    at e.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:297)
+    at e.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7014:325)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:7013:162
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:92:344
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:92)
+    at e.handleActiveEditorChange (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5987:882)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5988:202
+    at e.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:940)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6218:665
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6217:121)
+    at async e.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6973:846)
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6002:603)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:6947:177

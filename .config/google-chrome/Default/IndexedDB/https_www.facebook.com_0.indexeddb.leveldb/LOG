@@ -1,0 +1,5 @@
+2020/07/09-22:38:18.315 943 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/09-22:38:50.352 a78 Level-0 table #5: started
+2020/07/09-22:38:50.357 a78 Level-0 table #5: 1233 bytes OK
+2020/07/09-22:38:50.359 a78 Delete type=0 #3
+2020/07/09-22:38:50.359 a78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

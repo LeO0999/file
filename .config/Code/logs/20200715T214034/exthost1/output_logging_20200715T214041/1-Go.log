@@ -1,0 +1,37 @@
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:7: struct field tag `xorm created` not compatible with reflect.StructTag.Get: bad syntax for struct tag pair
+/home/leo/Work/exercise4/database.go:8: struct field tag `xorm updated` not compatible with reflect.StructTag.Get: bad syntax for struct tag pair
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-goKkgHFX/go-code-check .
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-goKkgHFX/go-code-check .
+/home/leo/Work/exercise4/database.go:18: undefined: xorm
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:18: undeclared name: xorm
+
+Starting linting the current package at /home/leo/Work/exercise4
+Starting building the current package at /home/leo/Work/exercise4
+Not able to determine import path of current package by using cwd: /home/leo/Work/exercise4 and Go workspace: 
+Starting "go vet" under the folder /home/leo/Work/exercise4
+/home/leo/Work/exercise4>Finished running tool: /home/leo/go/bin/golint
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go vet .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+
+/home/leo/Work/exercise4>Finished running tool: /snap/bin/go build -o /tmp/vscode-goKkgHFX/go-code-check .
+/home/leo/Work/exercise4/database.go:22: engine declared but not used
+/home/leo/Work/exercise4/database.go:22: err declared but not used
+

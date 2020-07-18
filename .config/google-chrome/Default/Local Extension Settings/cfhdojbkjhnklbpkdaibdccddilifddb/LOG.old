@@ -1,0 +1,78 @@
+2020/07/16-20:46:13.100 9e0 Reusing MANIFEST /home/leo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2020/07/16-20:46:13.100 9e0 Recovering log #312
+2020/07/16-20:46:13.100 9e0 Reusing old log /home/leo/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000312.log 
+2020/07/16-20:47:16.501 c72 Level-0 table #318: started
+2020/07/16-20:47:16.588 c72 Level-0 table #318: 5354444 bytes OK
+2020/07/16-20:47:16.593 c72 Delete type=0 #312
+2020/07/16-20:47:18.401 c72 Level-0 table #320: started
+2020/07/16-20:47:18.483 c72 Level-0 table #320: 5354508 bytes OK
+2020/07/16-20:47:18.485 c72 Delete type=0 #317
+2020/07/16-20:47:20.245 c72 Level-0 table #322: started
+2020/07/16-20:47:20.328 c72 Level-0 table #322: 5354268 bytes OK
+2020/07/16-20:47:20.330 c72 Delete type=0 #319
+2020/07/16-20:47:22.898 c72 Level-0 table #324: started
+2020/07/16-20:47:22.982 c72 Level-0 table #324: 5354421 bytes OK
+2020/07/16-20:47:22.985 c72 Delete type=0 #321
+2020/07/16-20:47:22.987 c72 Compacting 4@0 + 2@1 files
+2020/07/16-20:47:23.126 c72 Generated table #325@0: 1 keys, 5354227 bytes
+2020/07/16-20:47:23.129 c72 Generated table #326@0: 4 keys, 477 bytes
+2020/07/16-20:47:23.129 c72 Compacted 4@0 + 2@1 files => 5354704 bytes
+2020/07/16-20:47:23.130 c72 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/16-20:47:23.131 c72 Delete type=2 #320
+2020/07/16-20:47:23.131 c72 Delete type=2 #314
+2020/07/16-20:47:23.131 c72 Delete type=2 #318
+2020/07/16-20:47:23.131 c72 Delete type=2 #315
+2020/07/16-20:47:23.131 c72 Delete type=2 #324
+2020/07/16-20:47:23.131 c72 Delete type=2 #322
+2020/07/16-20:47:25.903 c72 Level-0 table #328: started
+2020/07/16-20:47:25.991 c72 Level-0 table #328: 5360865 bytes OK
+2020/07/16-20:47:25.993 c72 Delete type=0 #323
+2020/07/16-20:48:16.831 c72 Level-0 table #330: started
+2020/07/16-20:48:16.928 c72 Level-0 table #330: 5360671 bytes OK
+2020/07/16-20:48:16.930 c72 Delete type=0 #327
+2020/07/16-21:47:16.575 c72 Level-0 table #332: started
+2020/07/16-21:47:16.667 c72 Level-0 table #332: 5361082 bytes OK
+2020/07/16-21:47:16.670 c72 Delete type=0 #329
+2020/07/16-21:47:18.574 c72 Level-0 table #334: started
+2020/07/16-21:47:18.654 c72 Level-0 table #334: 5360930 bytes OK
+2020/07/16-21:47:18.657 c72 Delete type=0 #331
+2020/07/16-21:47:18.659 c72 Compacting 4@0 + 2@1 files
+2020/07/16-21:47:18.858 c72 Generated table #335@0: 1 keys, 5360683 bytes
+2020/07/16-21:47:18.866 c72 Generated table #336@0: 4 keys, 478 bytes
+2020/07/16-21:47:18.866 c72 Compacted 4@0 + 2@1 files => 5361161 bytes
+2020/07/16-21:47:18.867 c72 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/16-21:47:18.868 c72 Delete type=2 #328
+2020/07/16-21:47:18.868 c72 Delete type=2 #332
+2020/07/16-21:47:18.868 c72 Delete type=2 #330
+2020/07/16-21:47:18.868 c72 Delete type=2 #325
+2020/07/16-21:47:18.868 c72 Delete type=2 #334
+2020/07/16-21:47:18.868 c72 Delete type=2 #326
+2020/07/16-21:56:44.532 c72 Level-0 table #338: started
+2020/07/16-21:56:44.624 c72 Level-0 table #338: 5360870 bytes OK
+2020/07/16-21:56:44.630 c72 Delete type=0 #333
+2020/07/16-22:47:16.656 c72 Level-0 table #340: started
+2020/07/16-22:47:16.736 c72 Level-0 table #340: 5362277 bytes OK
+2020/07/16-22:47:16.741 c72 Delete type=0 #337
+2020/07/16-22:47:30.771 c72 Level-0 table #342: started
+2020/07/16-22:47:30.864 c72 Level-0 table #342: 5360922 bytes OK
+2020/07/16-22:47:30.875 c72 Delete type=0 #339
+2020/07/16-23:47:16.551 c72 Level-0 table #344: started
+2020/07/16-23:47:16.628 c72 Level-0 table #344: 5363069 bytes OK
+2020/07/16-23:47:16.631 c72 Delete type=0 #341
+2020/07/16-23:47:16.633 c72 Compacting 4@0 + 2@1 files
+2020/07/16-23:47:16.754 c72 Generated table #345@0: 1 keys, 5360676 bytes
+2020/07/16-23:47:16.757 c72 Generated table #346@0: 4 keys, 481 bytes
+2020/07/16-23:47:16.757 c72 Compacted 4@0 + 2@1 files => 5361157 bytes
+2020/07/16-23:47:16.758 c72 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/07/16-23:47:16.759 c72 Delete type=2 #342
+2020/07/16-23:47:16.759 c72 Delete type=2 #336
+2020/07/16-23:47:16.759 c72 Delete type=2 #340
+2020/07/16-23:47:16.759 c72 Delete type=2 #344
+2020/07/16-23:47:16.759 c72 Delete type=2 #338
+2020/07/16-23:47:16.759 c72 Delete type=2 #335
+2020/07/16-23:47:18.442 c72 Level-0 table #348: started
+2020/07/16-23:47:18.514 c72 Level-0 table #348: 5360923 bytes OK
+2020/07/16-23:47:18.517 c72 Delete type=0 #343
+2020/07/16-23:47:21.761 c72 Level-0 table #350: started
+2020/07/16-23:47:21.856 c72 Level-0 table #350: 5360889 bytes OK
+2020/07/16-23:47:21.859 c72 Delete type=0 #347

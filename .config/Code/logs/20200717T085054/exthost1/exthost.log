@@ -1,0 +1,186 @@
+[2020-07-17 08:50:56.653] [exthost] [info] extension host started
+[2020-07-17 08:50:56.727] [exthost] [info] ExtensionService#_doActivateExtension golang.go {"startup":false,"extensionId":{"value":"golang.go","_lower":"golang.go"},"activationEvent":"onLanguage:go"}
+[2020-07-17 08:50:56.727] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goMain
+[2020-07-17 08:50:57.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-17 08:50:57.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-17 08:50:57.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-17 08:50:57.156] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-17 08:50:57.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-17 08:50:57.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-17 08:50:57.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-17 08:50:57.186] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-17 08:50:57.192] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-17 08:50:57.192] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-17 08:50:57.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-17 08:50:57.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-17 08:50:57.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-17 08:50:57.201] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-17 08:50:57.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-17 08:50:57.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-17 08:50:57.411] [exthost] [info] eager extensions activated
+[2020-07-17 08:52:38.573] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2020-07-17 08:52:38.573] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-07-17 08:52:38.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-07-17 08:52:38.594] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2020-07-17 09:44:39.133] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 09:44:39.133] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-07-17 09:47:55.780] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 09:47:55.780] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbpoint.go -o 579
+godef: no object
+
+[2020-07-17 10:03:14.546] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:03:14.546] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 348
+godef: Offset 348 was not a valid identifier
+
+[2020-07-17 10:03:23.869] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:03:23.869] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 322
+godef: Offset 322 was not a valid identifier
+
+[2020-07-17 10:08:18.788] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:08:18.788] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1029
+godef: Offset 1029 was not a valid identifier
+
+[2020-07-17 10:17:30.331] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:17:30.338] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 10:17:32.393] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:17:32.394] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 10:24:05.667] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:24:05.667] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbuser.go -o 1095
+
+[2020-07-17 10:58:12.578] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:58:12.578] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 130
+godef: Offset 130 was not a valid identifier
+
+[2020-07-17 10:58:19.864] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:58:19.864] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 261
+godef: Offset 261 was not a valid identifier
+
+[2020-07-17 10:58:20.727] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 10:58:20.727] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 261
+godef: Offset 261 was not a valid identifier
+
+[2020-07-17 11:08:50.663] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 11:08:50.663] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 414
+
+[2020-07-17 11:30:16.346] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 11:30:16.346] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 355
+godef: Offset 355 was not a valid identifier
+
+[2020-07-17 11:32:12.105] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 11:32:12.105] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1267
+godef: Offset 1267 was not a valid identifier
+
+[2020-07-17 14:11:48.384] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:11:48.385] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:06.816] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:12:06.816] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:08.750] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:12:08.832] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 14:12:09.899] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:12:09.899] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:15.131] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:12:15.131] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:14:36.713] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:14:36.714] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 14:14:40.445] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 14:14:40.445] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 16:31:39.266] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 16:31:39.266] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbuser.go -o 820
+
+[2020-07-17 16:44:38.963] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 16:44:38.963] [exthost] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1276
+godef: Offset 1276 was not a valid identifier
+
+[2020-07-17 16:49:41.174] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 16:49:41.174] [exthost] [error] Check the console in dev tools to find errors when formatting.
+[2020-07-17 16:52:18.270] [exthost] [error] [golang.go] provider FAILED
+[2020-07-17 16:52:18.270] [exthost] [error] Check the console in dev tools to find errors when formatting.

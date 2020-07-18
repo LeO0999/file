@@ -1,0 +1,21 @@
+2020/07/16-20:46:12.593 9d3 Reusing MANIFEST /home/leo/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/07/16-20:46:12.593 9d3 Recovering log #62
+2020/07/16-20:46:12.598 9d3 Reusing old log /home/leo/.config/google-chrome/Default/Sync Data/LevelDB/000062.log 
+2020/07/16-21:53:04.477 c72 Level-0 table #66: started
+2020/07/16-21:53:04.482 c72 Level-0 table #66: 86163 bytes OK
+2020/07/16-21:53:04.484 c72 Delete type=0 #62
+2020/07/16-23:28:18.173 c72 Level-0 table #68: started
+2020/07/16-23:28:18.184 c72 Level-0 table #68: 82225 bytes OK
+2020/07/16-23:28:18.236 c72 Delete type=0 #65
+2020/07/16-23:28:18.236 c72 Compacting 4@0 + 1@1 files
+2020/07/16-23:28:18.259 c72 Generated table #69@0: 81 keys, 15399 bytes
+2020/07/16-23:28:18.259 c72 Compacted 4@0 + 1@1 files => 15399 bytes
+2020/07/16-23:28:18.262 c72 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/16-23:28:18.262 c72 Delete type=2 #59
+2020/07/16-23:28:18.262 c72 Delete type=2 #66
+2020/07/16-23:28:18.262 c72 Delete type=2 #68
+2020/07/16-23:28:18.262 c72 Delete type=2 #63
+2020/07/16-23:28:18.262 c72 Delete type=2 #61
+2020/07/16-23:43:10.680 c72 Level-0 table #71: started
+2020/07/16-23:43:10.683 c72 Level-0 table #71: 91763 bytes OK
+2020/07/16-23:43:10.685 c72 Delete type=0 #67

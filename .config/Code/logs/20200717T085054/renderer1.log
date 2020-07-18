@@ -1,0 +1,137 @@
+[2020-07-17 08:51:35.721] [renderer1] [error] net::ERR_TIMED_OUT: Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2657:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-07-17 09:44:39.134] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-07-17 09:47:55.781] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbpoint.go -o 579
+godef: no object
+
+[2020-07-17 10:03:14.547] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 348
+godef: Offset 348 was not a valid identifier
+
+[2020-07-17 10:03:23.870] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 322
+godef: Offset 322 was not a valid identifier
+
+[2020-07-17 10:08:18.802] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1029
+godef: Offset 1029 was not a valid identifier
+
+[2020-07-17 10:17:30.344] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 10:17:32.395] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 10:24:05.671] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbuser.go -o 1095
+
+[2020-07-17 10:58:12.579] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 130
+godef: Offset 130 was not a valid identifier
+
+[2020-07-17 10:58:19.864] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 261
+godef: Offset 261 was not a valid identifier
+
+[2020-07-17 11:08:50.663] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/Bai2.go -o 414
+
+[2020-07-17 11:30:16.347] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 355
+godef: Offset 355 was not a valid identifier
+
+[2020-07-17 11:32:12.105] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1267
+godef: Offset 1267 was not a valid identifier
+
+[2020-07-17 14:11:48.399] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:06.816] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:08.838] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 14:12:09.899] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:12:15.131] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+[2020-07-17 14:14:36.715] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 14:14:40.446] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:377)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:326)
+	at new C (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:429:327)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:119:28
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:97:19)
+	at /home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:31:16
+	at Generator.next (<anonymous>)
+	at fulfilled (/home/leo/.vscode/extensions/golang.go-0.15.1/out/src/goOutline.js:9:58)
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:85:5)
+[2020-07-17 16:31:39.316] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/dbuser.go -o 820
+
+[2020-07-17 16:44:38.964] [renderer1] [error] Command failed: /home/leo/go/bin/godef -t -i -f /home/leo/Work/exercise4/main.go -o 1276
+godef: Offset 1276 was not a valid identifier
+
+[2020-07-17 16:49:41.175] [renderer1] [warning] Check the console in dev tools to find errors when formatting.
+[2020-07-17 16:52:18.271] [renderer1] [warning] Check the console in dev tools to find errors when formatting.

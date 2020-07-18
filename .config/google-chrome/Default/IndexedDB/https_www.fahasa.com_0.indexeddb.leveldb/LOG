@@ -1,0 +1,5 @@
+2020/07/17-12:34:22.448 61c2 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_www.fahasa.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-12:38:31.665 39ea Level-0 table #5: started
+2020/07/17-12:38:31.670 39ea Level-0 table #5: 7487 bytes OK
+2020/07/17-12:38:31.672 39ea Delete type=0 #3
+2020/07/17-12:38:31.672 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

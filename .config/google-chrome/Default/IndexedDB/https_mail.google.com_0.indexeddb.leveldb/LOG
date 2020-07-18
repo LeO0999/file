@@ -1,0 +1,5 @@
+2020/07/09-22:43:29.744 948 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/09-22:47:23.783 a78 Level-0 table #5: started
+2020/07/09-22:47:23.788 a78 Level-0 table #5: 2070 bytes OK
+2020/07/09-22:47:23.810 a78 Delete type=0 #3
+2020/07/09-22:47:23.810 a78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

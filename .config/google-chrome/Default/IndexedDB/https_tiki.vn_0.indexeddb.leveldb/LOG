@@ -1,0 +1,5 @@
+2020/07/17-13:27:30.559 65c1 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_tiki.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-13:38:01.313 39ea Level-0 table #5: started
+2020/07/17-13:38:01.320 39ea Level-0 table #5: 20920 bytes OK
+2020/07/17-13:38:01.322 39ea Delete type=0 #3
+2020/07/17-13:38:01.323 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

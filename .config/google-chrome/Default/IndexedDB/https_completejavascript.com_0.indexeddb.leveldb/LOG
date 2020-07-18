@@ -1,0 +1,15 @@
+2020/07/10-15:14:28.035 4698 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_completejavascript.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/10-15:14:28.036 4698 Recovering log #7
+2020/07/10-15:14:28.036 4698 Reusing old log /home/leo/.config/google-chrome/Default/IndexedDB/https_completejavascript.com_0.indexeddb.leveldb/000007.log 
+2020/07/10-15:15:26.121 1c53 Level-0 table #12: started
+2020/07/10-15:15:26.126 1c53 Level-0 table #12: 3198 bytes OK
+2020/07/10-15:15:26.129 1c53 Delete type=0 #7
+2020/07/10-15:15:26.129 1c53 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/10-15:15:26.130 1c53 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x1b\x00c\x00u\x00s\x00t\x00o\x00m\x00-\x00n\x00a\x00v\x00i\x00g\x00a\x00t\x00i\x00o\x00n\x00-\x00w\x00h\x00i\x00t\x00e\x00l\x00i\x00s\x00t' @ 1049 : 1
+2020/07/10-15:15:26.130 1c53 Compacting 1@1 + 1@2 files
+2020/07/10-15:15:26.132 1c53 Generated table #13@1: 56 keys, 4278 bytes
+2020/07/10-15:15:26.132 1c53 Compacted 1@1 + 1@2 files => 4278 bytes
+2020/07/10-15:15:26.134 1c53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/07/10-15:15:26.134 1c53 Delete type=2 #9
+2020/07/10-15:15:26.134 1c53 Delete type=2 #12
+2020/07/10-15:15:26.135 1c53 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x1b\x00c\x00u\x00s\x00t\x00o\x00m\x00-\x00n\x00a\x00v\x00i\x00g\x00a\x00t\x00i\x00o\x00n\x00-\x00w\x00h\x00i\x00t\x00e\x00l\x00i\x00s\x00t' @ 1049 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+2020/07/17-17:05:39.554 1505 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-17:05:39.555 1505 Recovering log #45
+2020/07/17-17:05:39.555 1505 Reusing old log /home/leo/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000045.log 
+2020/07/17-17:06:49.113 39ea Level-0 table #49: started
+2020/07/17-17:06:49.113 39ea Level-0 table #49: 0 bytes OK
+2020/07/17-17:06:49.118 39ea Delete type=0 #45
+2020/07/17-17:06:49.119 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/07/17-17:06:49.119 39ea Manual compaction at level-1 from (begin) .. (end); will stop at (end)

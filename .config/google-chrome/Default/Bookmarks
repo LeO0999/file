@@ -1,0 +1,62 @@
+{
+   "checksum": "6ba4abeb19cc69e6a59c90c22c143aa8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13234597524634418",
+            "guid": "b1c70d3e-9660-4f00-af47-d1fb387019e4",
+            "id": "5",
+            "name": "Statistics for Data Science (Descriptive & Inferential Statistics) - DatabaseTown",
+            "type": "url",
+            "url": "https://databasetown.com/statistics-for-data-science-descriptive-inferential-statistics/"
+         }, {
+            "date_added": "13236239235303969",
+            "guid": "8dc08c54-22a3-41b9-9d27-801a5678a10a",
+            "id": "6",
+            "name": "RPubs - Outlier detection by Kmean clustering",
+            "type": "url",
+            "url": "https://rpubs.com/lengockhanhi/405417?fbclid=IwAR2XS1pe3o3Yh9L-Uu-3TQcVFnJyoBWu-JKlOfPhXYfPIag9xHzK99nGX84"
+         }, {
+            "date_added": "13236239240199001",
+            "guid": "4e221da1-a779-4563-8f87-feb533583cf1",
+            "id": "7",
+            "name": "RPubs - Math Score Distribution by Ha Giang",
+            "type": "url",
+            "url": "https://rpubs.com/chidungkt/625722?fbclid=IwAR2htRsKzvx1tJJ2hS2TETIc-rlBmq5uSVINY-jJcRUzy4Rg3Z019q_8EM0"
+         }, {
+            "date_added": "13239099451146702",
+            "guid": "759bbb52-98a8-4ed3-b6b2-ff3b941665bd",
+            "id": "9",
+            "name": "Thẻ mới",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13238782670629941",
+         "date_modified": "13239099451146702",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13238782670629946",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13238782670629947",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgkA1EBle6oFACEA1EBle6oFADIYChYIAhEiekp1e6oFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJANRAZXuqBQAhANRAZXuqBQAyGAoWCAIRInpKdXuqBQAYACEAAAAAAAAAACAASP7MuJa1LnD+zLiWtS4SACABKhhsQUN6U0pVeEVsZTBNem8vSjJSait3PT0SvgEIAxK5AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp3bGhaK3BDSXJjN0l6S3dzRk9WZ1J4RVl4eFprK1o1ODNvMlRsVnZueFRSTmdBRCt2WC9aZ1Z4UGxRbUZiZXBRTDFJTjhUSEg0ZGFsQzJYNVl0MmtXVWdVRWxoQT09GAAgACgAMLH8qpHLwOoCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAEqYBCAESoQEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaeEZVMHEydHF3cGx4QXBIZFo1cUdpRXlsaEVYcms2U1I1Z0ZhNkFwaDNsb0RKQk9nQjFtSzBnM00vMjkra00rVFlZQ0dSVBgAIAAoADCx/KqRy8DqAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aABK+AQgCErkBChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnkvbDNkUk83U092cjkrTC8ybE9QT3VUYnRUaVA1blRnK1BSV21YK21hSDhQYXBLOW02MkVqakNZbXptVU9EVmsyWWZXM29Gd2V5ZEo5VGlLNEJ1QjE4UFZEN1BRPT0YACAAKAAwsfyqkcvA6gI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgASqAIIBhKjAgocalc5VjBxaUViMmxFWE5QSTBxR1JNbFh4Nm5RPRKmAVo6QURxdEFaeXRlcVV5K2c4QXZsbkpwK2c1bVVSUUs5MG5TM0I1K3dDcER6R1VmOFdrclZvNVZSZUlva1ZEQ0R5bTkyRlFaOFV6MHlMMmVCREsrWkpld0dxamJ0TUVZQ2F1b1FnbjJOYS80ODhIcEV0Vk42MTZkSWhMMVZ1QlEvZE9oQWJjQkFxb0dSaXhvd0RkbEtnKzlJVlQ5WENMSWZLaDFBPT0YACACKAIwzLqKksvA6gI46aGA5akuQPDum6OzLkoceWZudVBJSUpYWllYREdkTDlsK082RkROSFJBPVofIh21Rzd4TnRiWVVjaHJrUEZRbWMwQWoxbTY1eEFzPRKoAggJEqMCChxTTG8yQTVNSWdKcDlWQ2NLYzdSeW8ySzBtSnM9EqYBWjpBRHF0QVp5dGVxVXkrZzhBdmxuSnArZzVtVVJRSzkwblMzQjUrd0NwRHpHVWY4V2tyWWUvYk96NkhRRWs5YWFiZFRlQURROStJdjlIME9qWFh2R29jZG1yQXlXTG5pSEppa0pYbmhUSklPaEt0VXNLd3UvYWtNZjNzWXFsd1NQazNhYVpLN1F3ZkRndVZhQ2I4WVdXQkFTVXlhR3ZETEVGcUE9PRgAIAAoADD3oJKNusrqAjiL/u24tC5Ai/7tuLQuShxzSGhTKzNoWXEvcHNHQlBmM0NnZXp3R0thamc9Wh8iHe0vZmhybWVIbmtZeHlOR1d6RzNQTzBxcE9iUFk9EqcCCAUSogIKHDU5dDY0YlNPNW4xNzU4ZFhOWFJHUi9GTjBhMD0SpgFaOkFEcXRBWnl0ZXFVeStnOEF2bG5KcCtnNW1VUlFLOTBuUzNCNSt3Q3BEekdVZjhXa3JhWXJpcWdxZmlsK1hWM2dPWnJvZE04UitnTUUyQlh6STRWMkZKalh0bTdrRHhBdHZLM1krL0crWU1PRkp0d3FGZStaRTdPSmFEL3lqS3BhV0NsVWY5U3I3RXpmbWovUUhxMXJYNGVQQlVaYWd4K2p4dz09GAAgAigCMMy6ipLLwOoCOJyZltajLkDv7pujsy5KHFd5alowNFBCZ2c0ODNHeU5BREY5RVlTcU5Idz1aHiIcamEwL01STUI5Z281MHNpZmFtWFlkd1hIejBRPRKoAggHEqMCChxzanV3OHBuWTlpTHZrU1JNQ0ZmRWZjMlFEbTQ9EqYBWjpBRHF0QVp5dGVxVXkrZzhBdmxuSnArZzVtVVJRSzkwblMzQjUrd0NwRHpHVWY4V2tyYmNIMkU1MHF2cGtoL3U2bEZxNndVTjVMTDZHQVBRMXlhRXpCSzRGNzhpaG9TNUhPSVZlNTlIblNXWUdhN2h5anE4VE8rUkkxc2NPMzJPOGtvTy9EZ0RKYjVweExFNE96WlcwcElKanhrWSthY0tZamc9PRgAIAIoAjDMuoqSy8DqAjiHyIDlqS5A8O6bo7MuShxsV01OZUxqTnlmbUs4aCtqNm5OeFRaZll5NTQ9Wh8iHdpmd3B2YzlCOExlaTZZYzA4bkdJQXNxU25mQWs9GAA=",
+   "version": 1
+}

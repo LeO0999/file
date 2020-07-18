@@ -1,0 +1,5 @@
+2020/07/17-11:39:12.726 5d19 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/17-11:41:07.093 39ea Level-0 table #5: started
+2020/07/17-11:41:07.095 39ea Level-0 table #5: 1927 bytes OK
+2020/07/17-11:41:07.097 39ea Delete type=0 #3
+2020/07/17-11:41:07.097 39ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

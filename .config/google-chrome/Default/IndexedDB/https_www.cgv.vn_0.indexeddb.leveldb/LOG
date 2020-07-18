@@ -1,0 +1,5 @@
+2020/07/16-23:03:46.115 18c4 Reusing MANIFEST /home/leo/.config/google-chrome/Default/IndexedDB/https_www.cgv.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/16-23:09:00.466 12f5 Level-0 table #5: started
+2020/07/16-23:09:00.468 12f5 Level-0 table #5: 5207 bytes OK
+2020/07/16-23:09:00.470 12f5 Delete type=0 #3
+2020/07/16-23:09:00.470 12f5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

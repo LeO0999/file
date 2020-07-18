@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="0.0011597005650401115" last-seen="1594613848"/>
+    <application id="yelp.desktop" open-window-count="0" score="0" last-seen="1594346622"/>
+    <application id="firefox.desktop" open-window-count="0" score="2.7008354663848877e-07" last-seen="1594631852"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="12.000183127820492" last-seen="1594874376"/>
+    <application id="code.desktop" open-window-count="1" score="2953.3609631247818" last-seen="1594981970"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="9.3132257461547852e-10" last-seen="1594348262"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="24605.012409540825" last-seen="1594982227"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="13" last-seen="1594956147"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="394.37589712720364" last-seen="1594982226"/>
+    <application id="gkbd-keyboard-display.desktop" open-window-count="0" score="14" last-seen="1594970507"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="3.0733644962310791e-08" last-seen="1594433847"/>
+  </context>
+</application-state>
